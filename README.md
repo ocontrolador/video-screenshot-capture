@@ -9,10 +9,10 @@ A Chrome extension that captures high-quality, full-resolution screenshots from 
 ## Features
 
 🎯 **Platform Support**
-- YouTube
-- X (Twitter)
-- Instagram
-- TikTok
+- ✅ YouTube
+- ✅ X (Twitter)
+- ✅ Instagram
+- ❎ TikTok 
 
 📸 **High-Quality Captures**
 - Full native video resolution
